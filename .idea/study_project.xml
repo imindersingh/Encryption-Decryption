@@ -758,20 +758,6 @@
                               </TaskFile>
                             </value>
                           </entry>
-                          <entry key="output.txt">
-                            <value>
-                              <TaskFile>
-                                <option name="answerPlaceholders">
-                                  <list />
-                                </option>
-                                <option name="highlightErrors" value="true" />
-                                <option name="name" value="output.txt" />
-                                <option name="text" value="" />
-                                <option name="trackChanges" value="true" />
-                                <option name="visible" value="true" />
-                              </TaskFile>
-                            </value>
-                          </entry>
                           <entry key="src/encryptdecrypt/AlgorithmStrategy.java">
                             <value>
                               <TaskFile>
